@@ -12,8 +12,6 @@ This app was built using React, a powerful and flexible JavaScript library for b
 
 - Simple and intuitive interface for creating and managing to-do lists
 - Customizable settings for each to-do item, such as due date, priority, and notes
-- Real-time updates and notifications for important events, such as upcoming due dates
-- Responsive design that looks great on desktop and mobile devices
 
 ## Usage
 
